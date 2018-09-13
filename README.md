@@ -4,3 +4,6 @@
 - feature-A
 
 checkout feature-A
+
+before pull
+after pull
